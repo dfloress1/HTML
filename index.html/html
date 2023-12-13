@@ -1,39 +1,54 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title> Origen del Iphone </title>
-<h1>El Origen del Iphone</h1>
-<h2> Presidente de la Compañía Steve Jobs </h2>
-<h3>Comunicador de Internet</h3>
+    <head>
+    <meta charset_="UTF 8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title> Origen del Iphone </title>
+
+    <h1>El Origen del Iphone</h1>
+
+    <h2> Presidente de la Compañía Steve Jobs </h2>
+
+    <h3>Comunicador de Internet</h3>
 </head>
+
 <body>
-<h2>Origen:</h2>
-<h2>2007: El iPhone Original, un teléfono con Internet</h2>
-<p>Apple lanza el iPhone original, un dispositivo muy esperado que combina un iPod, un teléfono y lo que el entonces presidente de la compañía, Steve Jobs, llama un "comunicador de Internet".</p>
 
-<p>Un teléfono de <strong>16 GB con una cámara relativamente mala de 2,0 megapíxeles y una pantalla relativamente grande, de cerca de 8 centímetros.</strong></p>
+    <h2>Origen:</h2>
 
-<h2>2008: iPhone 3G, conoce la App Store</h2>
-<p>Con la segunda versión del iPhone, Apple introduce la App Store y la conectividad 3G. <br> El nuevo dispositivo, que cuesta la mitad que el iPhone original, vendió más de 3 millones en un mes, superando con creces a su predecesor y las expectativas.</p>
+    <h2>2007: El iPhone Original, un teléfono con Internet</h2>
+
+    <p>Apple lanza el iPhone original, un dispositivo muy esperado que combina un iPod, un teléfono y lo que el entonces presidente de la compañía, Steve Jobs, llama un "comunicador de Internet".</p>
 
 
-<a href="https://cnnespanol.cnn.com/2023/09/11/todos-iphone-de-la-historia-trax/#:~:text=2007%3A%20el%20iPhone%20original%2C%20un,un%20%22comunicador%20de%20Internet%22.">See more... </a>
-<br>
-<a href="https://www.sicos.es/blog/historia-de-ios/"> Ver más... </a>
-<br>
-<a href="https://lamanzanamordida.net/reportajes/apple/quienes-fabrican-iphone/">Ver más... </a>
-<br>
-</br>
-</body>
+    <p>Un teléfono de <strong>16 GB con una cámara relativamente mala de 2,0 megapíxeles y una pantalla relativamente grande, de cerca de 8 centímetros.</strong></p>
 
-<img src="index.html/img/descarga.jpeg">
-<img src="index.html/img/origen.jpeg">
-<br>
-<br>
-</br>
 
-<a href="index.html/img/tabla.png">
+    <h2>2008: iPhone 3G, conoce la App Store</h2>
+
+    <p>Con la segunda versión del iPhone, Apple introduce la App Store y la conectividad 3G. <br> El nuevo dispositivo, que cuesta la mitad que el iPhone original, vendió más de 3 millones en un mes, superando con creces a su predecesor y las expectativas.</p>
+
+    <br>
+    <a href="https://cnnespanol.cnn.com/2023/09/11/todos-iphone-de-la-historia-trax/#:~:text=2007%3A%20el%20iPhone%20original%2C%20un,un%20%22comunicador%20de%20Internet%22.">See more... </a>
+    </br>
+    <br>
+    <a href="https://www.sicos.es/blog/historia-de-ios/"> Ver más... </a>
+    </br>
+    <br>
+    <a href="https://lamanzanamordida.net/reportajes/apple/quienes-fabrican-iphone/">Ver más... </a>
+    </br>
+
+    <br>
+    <img src="index.html/img/descarga.jpeg">
+    </br>
+    <br>
+    <img src="index.html/img/origen.jpeg">
+    </br>
+    <br>
+    <a href="index.html/img/tabla.png">
     <img src="index.html/img/tabla.png" alt="Tabla">
+    </br>
 </a>
-
+</body>
 </html>
